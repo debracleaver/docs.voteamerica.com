@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Integrations - WordPress
-parent: Tool Embeds
+title: WordPress
+parent: Integrations
 nav_order: 7
 ---
 
